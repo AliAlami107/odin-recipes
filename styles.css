@@ -1,9 +1,13 @@
 h1 {
     color : black;
-    background-color: rgb(255, 187, 160);
+    background-color: rgb(255, 99, 99);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+
 }
 
 ul {
     font-style: italic;
-    background-color: rgb(255, 187, 160);
+    background-color: rgb(255, 99, 99);
+    padding: 20px;
 }

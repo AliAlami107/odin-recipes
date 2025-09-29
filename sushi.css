@@ -1,0 +1,41 @@
+#homePageLink
+{
+    display: block;
+    font-size: larger;
+}
+
+h1 {
+    background-color: slategray;
+    padding: 20px 24px;
+    text-align: center;
+}
+
+#sushiImg {
+    display: block;
+    margin: auto;
+}
+
+h5 {
+    background-color: slategray;
+    margin: 20px;
+    padding: 8px;
+}
+
+.ingredients,
+.steps {
+    background-color: slategray;
+    padding: 3px;
+    margin-left: 20px;
+    font-size: large;
+}
+
+.steps li {
+    padding: 3px;
+}
+
+
+
+
+
+
+
