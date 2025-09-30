@@ -1,0 +1,29 @@
+#homePage {
+    font-size: 20px;
+}
+
+#title {
+    background-color: slategray;
+    padding: 20px;
+    text-align: center;
+}
+
+#breadImg {
+    display: block;
+    margin: auto;
+}
+
+#description {
+    background-color: slategray;
+    padding: 12px;
+    font-size: 14px;
+}
+
+#ingredients,
+#steps {
+    background-color: slategrey;
+    margin: 5px;
+    padding-bottom: 13px;
+    padding-top: 3px;
+}
+
