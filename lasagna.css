@@ -1,0 +1,26 @@
+#homePage {
+    display: block;
+    font-size: 20px;
+}
+
+#title {
+    background-color: slategray;
+    padding: 20px 24px;
+    text-align: center;
+}
+
+#description {
+    background-color: slategray;
+    padding: 10px;
+}
+
+#lasagnaImg {
+    display: block;
+    margin: 0 auto;
+}
+
+#instructions {
+    background-color: slategray;
+    padding: 3px;
+    font-size: large;
+}
